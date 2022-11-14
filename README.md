@@ -1,5 +1,12 @@
 # Crud-JavaFX + JDBC
 
+<ul>
+<li>JavaFX</li>
+<li>JDBC</li>
+<li>MYSQL</li>
+</ul>
+
+
 <div align="center">
   <h4>Tela inicial Preview</h4>
 <img height="440" width="710" src="https://user-images.githubusercontent.com/62127980/194787436-7b328ddb-8125-4360-8554-d4474cd539ac.jpg">
